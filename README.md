@@ -11,7 +11,7 @@
   
 <hr>
 
-### 🧰 Tech Toolbox
+### 🧰 Tech Stack
 
 <table style="border:1px solid #dfe2e5; border-collapse:collapse; width:100%;">
   <tr>
