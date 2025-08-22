@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/AWS-Certified-orange" />
   <img src="https://img.shields.io/badge/Tableau-Qualified%20Associate-blue" />
   <img src="https://img.shields.io/badge/Data-Visualization-success" />
-
+  
+<hr>
 
 
 
