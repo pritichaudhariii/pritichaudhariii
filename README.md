@@ -90,13 +90,16 @@
 
 <hr>
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me    
 
 <a href="https://www.linkedin.com/in/pritichaudhari/" target="_blank">
   <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:pritichaudhari843@gmail.com">
   <img height="28" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+</a>
+<a href="https://public.tableau.com/app/profile/priti.chaudhari/vizzes" target="_blank">
+  <img height="28" src="https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white">
 </a>
 
 
