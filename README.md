@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Priti Chaudhari</h2>
 
 <p align="center">
-  <b>Data Engineer & Analyst @ CSULB OIRA | AWS Certified</b>
+  <b>Data Engineer & Analyst @ CSULB | AWS Certified</b>
 </p>
 
 <p align="center">
