@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h2 align="center">**👋 Hi, I'm Priti Chaudhari**</h2>
 <!--
 **pritichaudhariii/pritichaudhariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
