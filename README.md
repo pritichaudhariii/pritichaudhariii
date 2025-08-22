@@ -1,4 +1,14 @@
 <h2 align="center">👋 Hi, I'm Priti Chaudhari</h2>
+
+<p align="center">
+  Data Engineer & Analyst @ CSULB OIRA | AWS Certified
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified-orange" />
+  <img src="https://img.shields.io/badge/Tableau-Qualified%20Associate-blue" />
+  <img src="https://img.shields.io/badge/Data-Visualization-success" />
+</p>
 <!--
 **pritichaudhariii/pritichaudhariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
