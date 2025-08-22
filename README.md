@@ -26,7 +26,7 @@
   <tr>
   <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">Frameworks/Orchestration</td>
   <td style="border:1px solid #dfe2e5; padding:8px;">
-    <img height="22" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white"> <img height="22" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img height="22" src="https://img.shields.io/badge/n8n-FD3A5C?logo=n8n&logoColor=white"> <img height="22" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+    <img height="22" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white"> <img height="22" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img height="22" src="https://img.shields.io/badge/n8n-FD3A5C?logo=n8n&logoColor=white"> <img height="22" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white">
   </td>
 
   <tr>
