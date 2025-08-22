@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Tableau-Qualified%20Associate-blue" />
   <img src="https://img.shields.io/badge/Data-Visualization-success" />
 
-=
+
 <!--
 **pritichaudhariii/pritichaudhariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
