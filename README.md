@@ -102,6 +102,8 @@
   <img height="28" src="https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white">
 </a>
 
+<hr>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pritichaudhariii" alt="GitHub Streak" />
 </p>
