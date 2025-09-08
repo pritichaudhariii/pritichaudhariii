@@ -90,6 +90,15 @@ I’m all about building pipelines and dashboards that actually make an impact. 
   </tr>
 </table>
 
+**🏆 Achievements**
+
+-💰 Prevented $1.8M in retail sales losses by building real-time Power BI dashboards
+-⚡ Improved ETL performance by 40% using Databricks + Airflow.
+-📊 Automated reporting to reduce manual workload by 95%, saving hours of repetitive effort weekly.
+-🏅 Winner, HackMITWPU’24 — Built an award-winning data solution.
+-📜 AWS Certified Cloud Practitioner & Salesforce Tableau Certified Data Analyst.
+-🎓 Academic Excellence — 4.0 GPA at CSULB (MS in Information Systems) + MIT-WPU Scholarship.
+
 <hr>
 
 ### 🌐 Connect With Me    
