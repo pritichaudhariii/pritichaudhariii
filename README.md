@@ -11,6 +11,8 @@
   
 <hr>
 
+I’m all about building pipelines and dashboards that actually make an impact. Over the past few years, I’ve worked with retail giants, universities, and tech firms — helping prevent $1.8M in lost sales, speeding up pipelines by 40%, and cutting reporting workloads by 95%. My thing? Turning messy, complex data into systems that are fast, reliable, and business-ready.
+
 ### 💻 Tech Stack
 
 <table style="border:1px solid #dfe2e5; border-collapse:collapse; width:100%;">
