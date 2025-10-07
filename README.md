@@ -1,7 +1,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Priti Chaudhari</h2>
 
 <p align="center">
-  <b>Data Engineer @ CSULB  | Actively Seeking 2026 Co-op & Full-Time Roles | Passionate about Scalable Data Pipelines & Cloud Solutions | Skilled in SQL · Python · AWS · BI Tools </b>
+  <b>Data Engineer @ CSULB  | Actively Seeking 2026 Co-op & Full-Time Roles | Skilled in SQL · Python · AWS · BI Tools </b>
 </p>
 
 <p align="center">
