@@ -12,7 +12,7 @@
 <hr>
 
 I’m a Data Engineer passionate about building scalable, reliable, and insight-driven data systems.
-With 3+ years of experience across higher education, tech consulting, and enterprise data platforms, I specialize in designing and automating ETL pipelines, data models, and dashboards that improve data reliability and decision-making.
+With 3+ years of experience across Fortune 500 enterprises, higher education, and tech consulting, I specialize in designing and automating ETL pipelines, data models, and dashboards that improve data reliability and decision-making.
 
 My thing? Transforming messy, complex data into systems that are automated, cloud-optimized, and business-ready — empowering teams to make faster, smarter decisions.
 
