@@ -11,7 +11,10 @@
   
 <hr>
 
-I’m all about building pipelines and dashboards that actually make an impact. Over the past few years, I’ve worked with retail giants, universities, and tech firms — helping prevent $1.8M in lost sales, speeding up pipelines by 40%, and cutting reporting workloads by 95%. My thing? Turning messy, complex data into systems that are fast, reliable, and business-ready.
+I’m a Data Engineer passionate about building scalable, reliable, and insight-driven data systems.
+With 3+ years of experience across higher education, tech consulting, and enterprise data platforms, I specialize in designing and automating ETL pipelines, data models, and dashboards that improve data reliability and decision-making.
+
+My thing? Transforming messy, complex data into systems that are automated, cloud-optimized, and business-ready — empowering teams to make faster, smarter decisions.
 
 ### 💻 Tech Stack
 
@@ -92,12 +95,16 @@ I’m all about building pipelines and dashboards that actually make an impact. 
 
 **🏆 Achievements**
 
-- 💰 Prevented $1.8M in retail sales losses by building real-time Power BI dashboards
-- ⚡ Improved ETL performance by 40% using Databricks + Airflow.
-- 📊 Automated reporting to reduce manual workload by 95%, saving hours of repetitive effort weekly.
-- 🏅 Winner, HackMITWPU’24 — Built an award-winning data solution.
-- 📜 AWS Certified Cloud Practitioner & Salesforce Tableau Certified Data Analyst.
-- 🎓 Academic Excellence — 4.0 GPA at CSULB (MS in Information Systems) + MIT-WPU Scholarship.
+ - 🚀 Automated 1TB+ ETL pipelines with PySpark, Airflow & AWS Glue — improved reliability by 31% and cut runtime by 45%.
+ - ⚙️ Built real-time data workflows using Spark & Lambda — reduced latency from 24 hrs → 2 hrs, boosting success rate to 98%.
+ - 📊 Modeled data with Star/Snowflake schemas — enhanced query speed by 42% for faster university reporting.
+ - ☁️ Deployed Snowflake & Redshift models via Jenkins CI/CD — improved query performance by 40%.
+ - 📈 Created Power BI/Tableau dashboards — reduced manual reporting by 38% and achieved 12% cost savings.
+ - 🧩 Automated data validation scripts in Python & SQL — achieved 99% accuracy across datasets.
+ - 🤝 Collaborated with teams to standardize data definitions and ensure FERPA/GDPR compliance.
+ - 🏅 Winner, HackMITWPU’24 — Built an award-winning data solution.
+ - 📜 AWS Certified Cloud Practitioner · AWS Certified Data Engineer – Associate · Salesforce Tableau Certified Data Analyst
+ - 🎓 Academic Excellence — 4.0 GPA at CSULB (MS in Information Systems) + MIT-WPU Scholarship.
 
 <hr>
 
