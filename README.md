@@ -18,80 +18,120 @@ My thing? Transforming messy, complex data into systems that are automated, clou
 
 ### 💻 Tech Stack
 
-<table style="border:1px solid #dfe2e5; border-collapse:collapse; width:100%;">
+<table>
   <tr>
-    <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;" width="220">Languages</td>
-    <td style="border:1px solid #dfe2e5; padding:8px;">
-      <img height="22" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white">
+    <td><b>Programming & Scripting</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
-
   <tr>
-  <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">Frameworks/Orchestration</td>
-  <td style="border:1px solid #dfe2e5; padding:8px;">
-    <img height="22" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white"> <img height="22" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img height="22" src="https://img.shields.io/badge/n8n-FD3A5C?logo=n8n&logoColor=white"> <img height="22" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"> <img height="22" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white">
-  </td>
-
-  <tr>
-    <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">Cloud & Warehouses</td>
-    <td style="border:1px solid #dfe2e5; padding:8px;">
-      <img height="22" src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Glue-FF9900?logo=amazonaws&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Redshift-276DC3?logo=amazonredshift&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/EC2-FF9900?logo=amazonaws&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white">
+    <td><b>Data Engineering Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-FFB300?logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hive-FDEE21?logo=apache&logoColor=black" />
     </td>
   </tr>
-
   <tr>
-    <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">Databases</td>
-    <td style="border:1px solid #dfe2e5; padding:8px;">
-      <img height="22" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+    <td><b>Cloud Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redshift-8C4FFF?logo=amazon-redshift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Glue-232F3E?logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lambda-FF9900?logo=aws-lambda&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMR-D94F00?logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Synapse%20Analytics-0078D4?logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP%20BigQuery-4285F4?logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dataflow-4285F4?logo=google-cloud&logoColor=white" />
     </td>
   </tr>
-
   <tr>
-    <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">BI & Apps</td>
-    <td style="border:1px solid #dfe2e5; padding:8px;">
-      <img height="22" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
-      <img height="22" src="https://img.shields.io/badge/Amazon%20QuickSight-232F3E?logo=amazonquicksight&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Apache%20Superset-181717?logo=apachesuperset&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
     </td>
   </tr>
-
   <tr>
-    <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">AI & NLP</td>
-    <td style="border:1px solid #dfe2e5; padding:8px;">
-      <img height="22" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/LangChain-1C3C3C">
-      <img height="22" src="https://img.shields.io/badge/Transformers-FFCC4D?logo=huggingface&logoColor=black">
-      <img height="22" src="https://img.shields.io/badge/FAISS-0B5FFF">
-      <img height="22" src="https://img.shields.io/badge/AWS%20Textract-FF9900?logo=amazonaws&logoColor=white">
+    <td><b>ETL & Data Pipelines</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-6A1B9A?logo=dataiku&logoColor=white" />
+      <img src="https://img.shields.io/badge/API%20Integration-009688?logo=swagger&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data%20Ingestion-4CAF50?logo=data&logoColor=white" />
+      <img src="https://img.shields.io/badge/Batch%20Processing-673AB7?logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Real--Time%20Processing-795548?logo=apache-kafka&logoColor=white" />
     </td>
   </tr>
-
   <tr>
-    <td style="border:1px solid #dfe2e5; background:#f6f8fa; font-weight:700; padding:8px; white-space:nowrap;">Extras</td>
-    <td style="border:1px solid #dfe2e5; padding:8px;">
-      <img height="22" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">
-      <img height="22" src="https://img.shields.io/badge/PyInstaller-6E42A2">
+    <td><b>Data Modeling & Warehousing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Star%20Schema-1565C0?logo=database&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake%20Schema-00A1E0?logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dimensional%20Modeling-0288D1?logo=database&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redshift-8C4FFF?logo=amazon-redshift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake-00A1E0?logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Analysis & Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Streaming & Big Data Basics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spark%20Streaming-E25A1C?logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kinesis-FF9900?logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Version Control & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-4285F4?logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Quality & Governance</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Validation-0288D1?logo=checkmarx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data%20Cleansing-7CB342?logo=datadog&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data%20Profiling-512DA8?logo=insomnia&logoColor=white" />
+      <img src="https://img.shields.io/badge/HIPAA%2FGDPR%20Compliance-455A64?logo=security&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Soft Skills</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Problem--Solving-00BCD4?logo=codeforces&logoColor=white" />
+      <img src="https://img.shields.io/badge/Collaboration-4CAF50?logo=teams&logoColor=white" />
+      <img src="https://img.shields.io/badge/Communication-2196F3?logo=slack&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agile%2FScrum-FC8019?logo=jira&logoColor=white" />
     </td>
   </tr>
 </table>
+
 
 **🏆 Achievements**
 
