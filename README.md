@@ -4,11 +4,6 @@
   <b>Data Engineer @ CSULB  | Actively Seeking 2026 Co-op & Full-Time Roles | Skilled in SQL · Python · AWS · BI Tools </b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-orange" />
-  <img src="https://img.shields.io/badge/Tableau-Qualified%20Associate-blue" />
-  <img src="https://img.shields.io/badge/Data-Visualization-success" />
-  
 <hr>
 
 I’m a Data Engineer passionate about building scalable, reliable, and insight-driven data systems.
