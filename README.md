@@ -130,14 +130,14 @@ My thing? Transforming messy, complex data into systems that are automated, clou
 
 ### 🏆 Achievements & Highlights
 
-🚀 Automated 200+ GB ETL pipelines using PySpark, AWS Glue, and Airflow, improving data freshness by 30% and reducing pipeline runtime by 45%.
-⚙️ Built near real-time data workflows leveraging Spark and AWS Lambda, cutting latency from 24 hrs → under 2 hrs and increasing reliability to 98%.
-📊 Designed and implemented dimensional data models with Star/Snowflake schemas in Snowflake, enhancing BI query performance by 40–42%.
-☁️ Deployed and modernized data warehouses on Snowflake and Redshift with Jenkins CI/CD, standardizing environments across multiple projects.
-📈 Developed interactive Power BI and Tableau dashboards, automating 10+ recurring reports and reducing manual reporting workload by 38%, leading to 12% cost savings.
-🧩 Engineered data validation and anomaly detection frameworks using Python, SQL, and AWS Deequ, achieving 99% dataset accuracy and reducing QA effort.
-🤝 Collaborated with cross-functional teams to define KPI standards for student success, finance, and enrollment metrics, ensuring compliance with FERPA, GDPR, and HIPAA.
-🏅 Winner — HackMITWPU’24, for developing an award-winning data-driven analytics solution integrating real-time insights and predictive modeling.
+- 🚀 Automated 200+ GB ETL pipelines using PySpark, AWS Glue, and Airflow, improving data freshness by 30% and reducing pipeline runtime by 45%.
+- ⚙️ Built near real-time data workflows leveraging Spark and AWS Lambda, cutting latency from 24 hrs → under 2 hrs and increasing reliability to 98%.
+- 📊 Designed and implemented dimensional data models with Star/Snowflake schemas in Snowflake, enhancing BI query performance by 40–42%.
+- ☁️ Deployed and modernized data warehouses on Snowflake and Redshift with Jenkins CI/CD, standardizing environments across multiple projects.
+- 📈 Developed interactive Power BI and Tableau dashboards, automating 10+ recurring reports and reducing manual reporting workload by 38%, leading to 12% cost savings.
+- 🧩 Engineered data validation and anomaly detection frameworks using Python, SQL, and AWS Deequ, achieving 99% dataset accuracy and reducing QA effort.
+- 🤝 Collaborated with cross-functional teams to define KPI standards for student success, finance, and enrollment metrics, ensuring compliance with FERPA, GDPR, and HIPAA.
+- 🏅 Winner — HackMITWPU’24, for developing an award-winning data-driven analytics solution integrating real-time insights and predictive modeling.
 
 ### 📜 Certifications:
 AWS Certified Data Engineer – Associate
