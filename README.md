@@ -144,7 +144,7 @@ AWS Certified Data Engineer – Associate
 AWS Certified Cloud Practitioner
 Salesforce Tableau Certified Data Analyst
 
-### 🎓 Academic Excellence: 4.0 GPA in MS Information Systems, CSULB · Merit-based Scholarship, MIT-WPU
+### 🎓 Academic Excellence: 4.0 GPA in MS Information Systems, CSULB | Merit-based Scholarship, MIT-WPU
 
 <hr>
 
