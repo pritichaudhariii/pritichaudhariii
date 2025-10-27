@@ -140,11 +140,13 @@ My thing? Transforming messy, complex data into systems that are automated, clou
 - 🏅 Winner — HackMITWPU’24, for developing an award-winning data-driven analytics solution integrating real-time insights and predictive modeling.
 
 ### 📜 Certifications:
-AWS Certified Data Engineer – Associate
-AWS Certified Cloud Practitioner
-Salesforce Tableau Certified Data Analyst
+- AWS Certified Data Engineer – Associate
+- AWS Certified Cloud Practitioner
+ Salesforce Tableau Certified Data Analyst
 
-### 🎓 Academic Excellence: 4.0 GPA in MS Information Systems, CSULB | Merit-based Scholarship, MIT-WPU
+### 🎓 Academic Excellence: 
+- 4.0 GPA in MS Information Systems, CSULB
+- Merit-based Scholarship, MIT-WPU
 
 <hr>
 
