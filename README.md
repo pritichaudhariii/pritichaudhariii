@@ -142,7 +142,7 @@ My thing? Transforming messy, complex data into systems that are automated, clou
 ### 📜 Certifications:
 - AWS Certified Data Engineer – Associate
 - AWS Certified Cloud Practitioner
- Salesforce Tableau Certified Data Analyst
+- Salesforce Tableau Certified Data Analyst
 
 ### 🎓 Academic Excellence: 
 - 4.0 GPA in MS Information Systems, CSULB
