@@ -128,18 +128,23 @@ My thing? Transforming messy, complex data into systems that are automated, clou
 </table>
 
 
-**🏆 Achievements**
+### 🏆 Achievements & Highlights
 
- - 🚀 Automated 1TB+ ETL pipelines with PySpark, Airflow & AWS Glue — improved reliability by 31% and cut runtime by 45%.
- - ⚙️ Built real-time data workflows using Spark & Lambda — reduced latency from 24 hrs → 2 hrs, boosting success rate to 98%.
- - 📊 Modeled data with Star/Snowflake schemas — enhanced query speed by 42% for faster university reporting.
- - ☁️ Deployed Snowflake & Redshift models via Jenkins CI/CD — improved query performance by 40%.
- - 📈 Created Power BI/Tableau dashboards — reduced manual reporting by 38% and achieved 12% cost savings.
- - 🧩 Automated data validation scripts in Python & SQL — achieved 99% accuracy across datasets.
- - 🤝 Collaborated with teams to standardize data definitions and ensure FERPA/GDPR compliance.
- - 🏅 Winner, HackMITWPU’24 — Built an award-winning data solution.
- - 📜 AWS Certified Cloud Practitioner · AWS Certified Data Engineer – Associate · Salesforce Tableau Certified Data Analyst
- - 🎓 Academic Excellence — 4.0 GPA at CSULB (MS in Information Systems) + MIT-WPU Scholarship.
+🚀 Automated 200+ GB ETL pipelines using PySpark, AWS Glue, and Airflow, improving data freshness by 30% and reducing pipeline runtime by 45%.
+⚙️ Built near real-time data workflows leveraging Spark and AWS Lambda, cutting latency from 24 hrs → under 2 hrs and increasing reliability to 98%.
+📊 Designed and implemented dimensional data models with Star/Snowflake schemas in Snowflake, enhancing BI query performance by 40–42%.
+☁️ Deployed and modernized data warehouses on Snowflake and Redshift with Jenkins CI/CD, standardizing environments across multiple projects.
+📈 Developed interactive Power BI and Tableau dashboards, automating 10+ recurring reports and reducing manual reporting workload by 38%, leading to 12% cost savings.
+🧩 Engineered data validation and anomaly detection frameworks using Python, SQL, and AWS Deequ, achieving 99% dataset accuracy and reducing QA effort.
+🤝 Collaborated with cross-functional teams to define KPI standards for student success, finance, and enrollment metrics, ensuring compliance with FERPA, GDPR, and HIPAA.
+🏅 Winner — HackMITWPU’24, for developing an award-winning data-driven analytics solution integrating real-time insights and predictive modeling.
+
+### 📜 Certifications:
+AWS Certified Data Engineer – Associate
+AWS Certified Cloud Practitioner
+Salesforce Tableau Certified Data Analyst
+
+### 🎓 Academic Excellence: 4.0 GPA in MS Information Systems, CSULB · Merit-based Scholarship, MIT-WPU
 
 <hr>
 
