@@ -105,7 +105,7 @@ Strong in **Java · Python · Spring Boot · AWS**, with hands-on experience in 
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritichaudhari/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritichaudhari843@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritiichaudharii21@gmail.com)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/priti.chaudhari/vizzes)
 
 <hr>
