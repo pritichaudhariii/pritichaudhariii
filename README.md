@@ -6,7 +6,7 @@
 
 <hr>
 
-I'm a Software Development Engineer with 4+ years of experience building backend systems, REST APIs, and microservices for high-traffic applications. Currently working on AI-enabled backend features — integrating LLM services into real-world workflows. I care about writing reliable, maintainable code that actually scales.
+I'm a Software Development Engineer with 4+ years of experience building backend systems, REST APIs, and microservices for high-traffic applications. Currently working on AI-enabled backend features - integrating LLM services into real-world workflows. I care about writing reliable, maintainable code that actually scales.
 
 Strong in **Java · Python · Spring Boot · AWS**, with hands-on experience in distributed systems, API performance tuning, and applied AI integration.
 
