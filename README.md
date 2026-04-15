@@ -84,7 +84,7 @@ Strong in **Java · Python · Spring Boot · AWS**, with hands-on experience in 
 - 🔗 Built REST APIs with **99% request success rate** via structured validation, retry handling, and error management.
 - 🛠️ Designed microservices with Spring Boot, reducing deployment dependencies by **30%** and improving scalability.
 - 📉 Reduced issue resolution time by **45%** by implementing structured logging and monitoring across backend services.
-- 🧠 Built a RAG-based AI Knowledge Assistant — LLM APIs + vector retrieval — improving response accuracy by **40%**.
+- 🧠 Built a RAG-based AI Knowledge Assistant - LLM APIs + vector retrieval - improving response accuracy by **40%**.
 
 ---
 
