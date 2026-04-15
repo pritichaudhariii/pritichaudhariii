@@ -1,156 +1,108 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Priti Chaudhari</h2>
 
 <p align="center">
-  <b>Data Engineer @ CSULB  | Actively Seeking 2026 Co-op & Full-Time Roles | Skilled in SQL · Python · AWS · BI Tools </b>
+  <b>Software Development Engineer | Backend · Applied AI · Cloud | Open to 2026 Full-Time Roles</b>
 </p>
 
 <hr>
 
-I’m a Data Engineer passionate about building scalable, reliable, and insight-driven data systems.
-With 3+ years of experience across Fortune 500 enterprises, higher education, and tech consulting, I specialize in designing and automating ETL pipelines, data models, and dashboards that improve data reliability and decision-making.
+I'm a Software Development Engineer with 4+ years of experience building backend systems, REST APIs, and microservices for high-traffic applications. Currently working on AI-enabled backend features — integrating LLM services into real-world workflows. I care about writing reliable, maintainable code that actually scales.
 
-My thing? Transforming messy, complex data into systems that are automated, cloud-optimized, and business-ready — empowering teams to make faster, smarter decisions.
+Strong in **Java · Python · Spring Boot · AWS**, with hands-on experience in distributed systems, API performance tuning, and applied AI integration.
+
+---
 
 ### 💻 Tech Stack
 
 <table>
   <tr>
-    <td><b>Programming & Scripting</b></td>
+    <td><b>Languages</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white" />
-      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Data Engineering Platforms</b></td>
+    <td><b>Backend & APIs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hadoop-FFB300?logo=apache&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hive-FDEE21?logo=apache&logoColor=black" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-009688?logo=swagger&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservices-6A1B9A?logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Cloud Platforms</b></td>
+    <td><b>Applied AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redshift-8C4FFF?logo=amazon-redshift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Glue-232F3E?logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lambda-FF9900?logo=aws-lambda&logoColor=white" />
-      <img src="https://img.shields.io/badge/EMR-D94F00?logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Synapse%20Analytics-0078D4?logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP%20BigQuery-4285F4?logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dataflow-4285F4?logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLM%20Integration-FF6F00?logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG%20Systems-4285F4?logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP%20Pipelines-00ACC1?logo=huggingface&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>ETL & Data Pipelines</b></td>
+    <td><b>Cloud & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-6A1B9A?logo=dataiku&logoColor=white" />
-      <img src="https://img.shields.io/badge/API%20Integration-009688?logo=swagger&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data%20Ingestion-4CAF50?logo=data&logoColor=white" />
-      <img src="https://img.shields.io/badge/Batch%20Processing-673AB7?logo=apache-spark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Real--Time%20Processing-795548?logo=apache-kafka&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data Modeling & Warehousing</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Star%20Schema-1565C0?logo=database&logoColor=white" />
-      <img src="https://img.shields.io/badge/Snowflake%20Schema-00A1E0?logo=snowflake&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dimensional%20Modeling-0288D1?logo=database&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redshift-8C4FFF?logo=amazon-redshift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Snowflake-00A1E0?logo=snowflake&logoColor=white" />
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data Analysis & Visualization</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Streaming & Big Data Basics</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spark%20Streaming-E25A1C?logo=apache-spark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kinesis-FF9900?logo=amazon-aws&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Version Control & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI%2FCD-4285F4?logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-4285F4?logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Data Quality & Governance</b></td>
+    <td><b>Observability</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Data%20Validation-0288D1?logo=checkmarx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data%20Cleansing-7CB342?logo=datadog&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data%20Profiling-512DA8?logo=insomnia&logoColor=white" />
-      <img src="https://img.shields.io/badge/HIPAA%2FGDPR%20Compliance-455A64?logo=security&logoColor=white" />
+      <img src="https://img.shields.io/badge/Logging-455A64?logo=datadog&logoColor=white" />
+      <img src="https://img.shields.io/badge/Monitoring-E6522C?logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Soft Skills</b></td>
+    <td><b>Methodologies</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Problem--Solving-00BCD4?logo=codeforces&logoColor=white" />
-      <img src="https://img.shields.io/badge/Collaboration-4CAF50?logo=teams&logoColor=white" />
-      <img src="https://img.shields.io/badge/Communication-2196F3?logo=slack&logoColor=white" />
       <img src="https://img.shields.io/badge/Agile%2FScrum-FC8019?logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Code%20Review-0288D1?logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
+---
 
-### 🏆 Achievements & Highlights
+### 🏆 Highlights
 
-- 🚀 Automated 200+ GB ETL pipelines using PySpark, AWS Glue, and Airflow, improving data freshness by 30% and reducing pipeline runtime by 45%.
-- ⚙️ Built near real-time data workflows leveraging Spark and AWS Lambda, cutting latency from 24 hrs → under 2 hrs and increasing reliability to 98%.
-- 📊 Designed and implemented dimensional data models with Star/Snowflake schemas in Snowflake, enhancing BI query performance by 40–42%.
-- ☁️ Deployed and modernized data warehouses on Snowflake and Redshift with Jenkins CI/CD, standardizing environments across multiple projects.
-- 📈 Developed interactive Power BI and Tableau dashboards, automating 10+ recurring reports and reducing manual reporting workload by 38%, leading to 12% cost savings.
-- 🧩 Engineered data validation and anomaly detection frameworks using Python, SQL, and AWS Deequ, achieving 99% dataset accuracy and reducing QA effort.
-- 🤝 Collaborated with cross-functional teams to define KPI standards for student success, finance, and enrollment metrics, ensuring compliance with FERPA, GDPR, and HIPAA.
-- 🏅 Winner — HackMITWPU’24, for developing an award-winning data-driven analytics solution integrating real-time insights and predictive modeling.
+- ⚡ Reduced API response latency by **28%** through query optimization and efficient request handling across high-traffic backend services.
+- 🤖 Integrated LLM-based services into backend workflows, cutting decision-processing time by **40%** while maintaining reliable performance.
+- 🔗 Built REST APIs with **99% request success rate** via structured validation, retry handling, and error management.
+- 🛠️ Designed microservices with Spring Boot, reducing deployment dependencies by **30%** and improving scalability.
+- 📉 Reduced issue resolution time by **45%** by implementing structured logging and monitoring across backend services.
+- 🧠 Built a RAG-based AI Knowledge Assistant — LLM APIs + vector retrieval — improving response accuracy by **40%**.
 
-### 📜 Certifications:
+---
+
+### 📜 Certifications
+
 - AWS Certified Data Engineer – Associate
 - AWS Certified Cloud Practitioner
-- Salesforce Tableau Certified Data Analyst
 
-### 🎓 Academic Excellence: 
-- 4.0 GPA in MS Information Systems, CSULB
-- Merit-based Scholarship, MIT-WPU
+---
 
-<hr>
+### 🎓 Education
 
-### 🌐 Connect With Me    
+- **MS Information Systems** — California State University, Long Beach | GPA: 4.0
+- **B.Tech Computer Science** — MIT World Peace University, Pune | Merit Scholarship
+
+---
+
+### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritichaudhari/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritichaudhari843@gmail.com)
@@ -161,22 +113,3 @@ My thing? Transforming messy, complex data into systems that are automated, clou
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pritichaudhariii" alt="GitHub Streak" />
 </p>
-
-
-
-
-
-<!--
-**pritichaudhariii/pritichaudhariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
